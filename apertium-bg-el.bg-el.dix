@@ -1,0 +1,40 @@
+
+
+<dictionary>
+  <alphabet/>
+  <sdefs>
+    <sdef n="n"       c="Noun"/>
+    <sdef n="np"      c="Proper name"/>
+    <sdef n="pr"      c="Preposition"/>
+    <sdef n="adj"     c="Adjective"/>
+    <sdef n="vbser"   c="Verb 'to be'"/>
+    <sdef n="cnjcoo"  c="Coordinating conjunction"/>
+
+    <sdef n="top"     c="Toponym"/>
+    <sdef n="ind"     c="Indefinite"/>
+    <sdef n="def"     c="Definite"/>
+
+    <sdef n="m"       c="Masculine"/>
+    <sdef n="f"       c="Feminine"/>
+    <sdef n="nt"      c="Neuter"/>
+  </sdefs>
+  <section id="main" type="standard">
+    <e><p><l>и<s n="cnjcoo"/></l><r>και<s n="cnjcoo"/></r></p></e>
+
+    <e><p><l>на<s n="pr"/></l><r>πάνω<s n="pr"/></r></p></e>
+    <e><p><l>в<s n="pr"/></l><r>σε<s n="pr"/></r></p></e>
+
+    <e><p><l>столица<s n="n"/><s n="f"/></l><r>πρωτεύουσα<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>град<s n="n"/><s n="m"/></l><r>πόλη<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>страна<s n="n"/><s n="f"/></l><r>χώρα<s n="n"/><s n="f"/></r></p></e>
+
+    <e><p><l>Сараево<s n="np"/><s n="top"/></l><r>Σαράγεβο<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Босна<b/>и<b/>Херцеговина<s n="np"/><s n="top"/></l><r>Βοσνίας<b/>και<b/>Ερζεγοβίνης<s n="np"/><s n="top"/></r></p></e>
+
+    <e><p><l>голям<s n="adj"/></l><r>μεγάλος<s n="adj"/></r></p></e>
+
+    <e><p><l>е<s n="vbser"/></l><r>είμαι<s n="vbser"/></r></p></e>
+  </section>
+</dictionary>
+
+<!--Сараево е столицата на Босна и Херцеговина и най-големият град в страната. -->

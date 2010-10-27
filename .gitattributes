@@ -1,0 +1,8 @@
+* text=auto !eol
+/Makefile -text
+/apertium-bg-el.bg-el.dix -text
+/apertium-bg-el.bg-el.t1x -text
+/apertium-bg-el.bg.dix -text
+/apertium-bg-el.el.dix -text
+/run-translator.sh -text
+/test -text svneol=unset#application/octet-stream
