@@ -19,21 +19,29 @@
     <sdef n="nt"      c="Neuter"/>
   </sdefs>
   <section id="main" type="standard">
+    <!-- SECTION: Conjunctions -->
     <e><p><l>и<s n="cnjcoo"/></l><r>και<s n="cnjcoo"/></r></p></e>
 
+    <!-- SECTION: Prepositions -->
     <e><p><l>на<s n="pr"/></l><r>πάνω<s n="pr"/></r></p></e>
     <e><p><l>в<s n="pr"/></l><r>σε<s n="pr"/></r></p></e>
 
+    <!-- SECTION: Nouns -->
     <e><p><l>столица<s n="n"/><s n="f"/></l><r>πρωτεύουσα<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>град<s n="n"/><s n="m"/></l><r>πόλη<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>страна<s n="n"/><s n="f"/></l><r>χώρα<s n="n"/><s n="f"/></r></p></e>
 
+    <!-- SECTION: Proper nouns -->
     <e><p><l>Сараево<s n="np"/><s n="top"/></l><r>Σαράγεβο<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Босна<b/>и<b/>Херцеговина<s n="np"/><s n="top"/></l><r>Βοσνίας<b/>και<b/>Ερζεγοβίνης<s n="np"/><s n="top"/></r></p></e>
 
+    <!-- SECTION: Adjectives -->
     <e><p><l>голям<s n="adj"/></l><r>μεγάλος<s n="adj"/></r></p></e>
 
+    <!-- SECTION: Verbs -->
     <e><p><l>е<s n="vbser"/></l><r>είμαι<s n="vbser"/></r></p></e>
+
+    <!-- SECTION: Punctuation -->
   </section>
 </dictionary>
 
