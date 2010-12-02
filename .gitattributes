@@ -4,6 +4,7 @@
 /apertium-bg-el.bg-el.t1x -text
 /apertium-bg-el.bg.dix -text
 /apertium-bg-el.el.dix -text
-dev/bg-el.interwiki -text
+dev/bg-el.nouns.interwiki -text
+dev/bg-el.proper_nouns.interwiki -text
 /run-translator.sh -text
 /test -text svneol=unset#application/octet-stream
